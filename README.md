@@ -1,0 +1,2 @@
+- Hi, I’m Nathan Emeny-Smith. I am currently a master's student at the University of Arizona studying Management Information Systems.
+- I’m interested in enterprise risk, cloud architecture, and cloud DevOps.
